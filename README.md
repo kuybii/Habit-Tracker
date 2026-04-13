@@ -31,8 +31,7 @@ Data is automatically loaded on startup and saved when exiting.
 
 🖥️ How to Run
 1. Clone the repository
-git clone https://github.com/your-username/habit-tracker.git
-cd habit-tracker
+git clone (https://github.com/kuybii/Habit-Tracker)
 2. Run the program
 python Habit_Tracker_Fin.py
 
